@@ -8,5 +8,10 @@ namespace ConsoleApp6
 {
     class helper
     {
+        public string hellogit()
+        {
+            return "hello git";
+        }
+
     }
 }
